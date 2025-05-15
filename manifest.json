@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Lead Entry",
+    "name": "School times",
     "version": "1.0",
-    "description": "Send Lead Data Entry to GSheets",
+    "description": "Show when to switch classes",
     "permissions": ["activeTab", "storage", "http://*/*", "https://*/*"],
     "background": {
       "service_worker": "popup.js"
